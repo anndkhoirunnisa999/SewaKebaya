@@ -1,5 +1,4 @@
-# SewaKebaya
-# Deskripsi Project Website Sewa Kebaya — KebayaRent
+# Sewa Kebaya — KebayaRent
 
 KebayaRent merupakan website sistem informasi penyewaan kebaya dan busana untuk berbagai acara, seperti wisuda, lamaran, pernikahan, kondangan, acara adat, dan photoshoot. Website ini dirancang untuk memudahkan pengelolaan koleksi busana, data pelanggan, pemesanan, serta transaksi penyewaan dalam satu sistem yang terintegrasi.
 
